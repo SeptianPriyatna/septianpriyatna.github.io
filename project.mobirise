@@ -358,12 +358,12 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "septian.priyatna@hotmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks <3!"
             },
             "fields": {
               "name": {
