@@ -230,17 +230,6 @@
                 "contentAlign": "right",
                 "text": "<br>Ontwerp een publicatie waarin je je persoonelijke kijk geeft op een of meerdere aspecten van Parijs.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc-0055-2-1000x714.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "PARIS MATCH \"City Full Of Delusion\"",
-                "contentAlign": "right",
-                "text": "<br>Ontwerp een publicatie waarin je je persoonelijke kijk geeft op een of meerdere aspecten van Parijs.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               }
             ]
           },
