@@ -221,8 +221,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc-50-1000x667.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-0055-3-1000x667.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -232,7 +232,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc-55-1000x714.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0055-2-1000x714.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
