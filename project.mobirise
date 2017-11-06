@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SEPTIAN 2",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 21,
+    "uniqCompNum": 23,
     "versionPublish": "4.3.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -33,7 +33,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": true,
             "sticky": false,
             "collapsed": false,
@@ -195,12 +195,12 @@
           "_inherit": "slider",
           "_afterNavbarItem": ".mbr-slider",
           "_params": {
-            "autoplay": false,
+            "autoplay": true,
             "showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-50-1000x667.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -211,7 +211,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-52-1000x667.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -219,6 +219,17 @@
                 "contentAlign": "left",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-50-1000x667.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "PARIS MATCH \"City Full Of Delusion\"",
+                "contentAlign": "right",
+                "text": "<br>Ontwerp een publicatie waarin je je persoonelijke kijk geeft op een of meerdere aspecten van Parijs.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               }
             ]
           },
@@ -228,6 +239,44 @@
           ],
           "_name": "slider2",
           "_anchor": "slider2-3"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": false,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-67-1000x714.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "GRONDWET",
+                "contentAlign": "right",
+                "text": "De Belgische grondwet in een nieuwe jasje steken.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-68-1000x714.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-l"
         }
       ]
     },
@@ -242,7 +291,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": true,
             "sticky": false,
             "collapsed": false,
@@ -387,7 +436,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": true,
             "sticky": false,
             "collapsed": false,
