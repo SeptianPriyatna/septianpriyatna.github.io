@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SEPTIAN 2",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -105,7 +105,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://septianpriyatna.github.io",
               "title": ""
             },
             "iconFont": {
@@ -367,9 +367,10 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://septianpriyatna.github.io",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -518,8 +519,9 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://septianpriyatna.github.io",
               "title": "",
+              "linkInNewWindow": false,
               "active": true
             },
             "iconFont": {
