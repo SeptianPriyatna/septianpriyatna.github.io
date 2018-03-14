@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SEPTIAN 2-clone",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,13 +11,13 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "4.3.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /assets/images\n\n\n",
     "robotsSwitcher": "on",
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -683,7 +683,16 @@
         "title": "COPYRIGHT",
         "order": 3
       },
-      "components": []
+      "components": [
+        {
+          "text": "<p>Copyright © 2017 Septian Priyatna.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-p"
+        }
+      ]
     }
   }
 }
