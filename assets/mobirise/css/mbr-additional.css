@@ -1,5 +1,8 @@
 @isPublish: true;
 
+#image2-u {
+}
+
 #ext_menu-0 {
 .mbr-brand__name {
   font-size: 16px;
@@ -54,16 +57,23 @@
 }
 }
 
-#slider2-2 {
+#slider2-q {
 }
 
-#slider2-3 {
+#slider2-r {
 }
 
-#slider2-o {
+#slider2-s {
+H1 {
+  color: #2c2c2c;
 }
-
-#slider2-l {
+P {
+  color: #2c2c2c;
+  text-align: right;
+}
+I {
+  color: #2c2c2c;
+}
 }
 @isPublish: true;
 
@@ -193,5 +203,5 @@
 #form1-h {
 }
 
-#social-buttons2-k {
+#social-buttons2-w {
 }
